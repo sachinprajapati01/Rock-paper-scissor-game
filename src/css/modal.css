@@ -1,0 +1,46 @@
+.c{
+    position: absolute;
+    height: 50vh;
+    width: 50vw;
+    z-index: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    border:4px solid rgb(82, 79, 79);
+    background-color: white;
+    border-radius: 8px;
+    margin: 30px;
+    left: 25vw;
+    padding: 30px;
+}
+
+.image{
+            width: 100%;
+        }
+
+        .headerm{
+            display: flex;
+            position: absolute;
+            top: 0px;
+            margin-bottom: 30px;
+        }
+        h1{
+                text-transform: uppercase;
+                margin: 0;
+                padding: 0;
+            }
+        
+
+    .btns{
+        background:none ;
+        border: none;
+        position: absolute;
+        top: 4px;
+        right: 2px;
+        align-self: center;
+        color: black;
+    }
+     .btns:hover{
+            cursor: pointer;
+        }

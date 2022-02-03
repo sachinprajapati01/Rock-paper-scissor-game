@@ -1,0 +1,51 @@
+.total{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    top:180px;
+    left:160px;
+    position: relative;
+
+}
+.mid,.me,.house{
+    margin: 1px;
+    padding: 0px 0px 0px 46px;
+    width: 264px;
+}
+.mid{
+    margin:0px;
+    padding:0px 0px 0px 30px;
+    font-size: 20px;
+}
+.result{
+    margin: 0px;
+    padding: 103px 59px 59px 27px;
+    font-size: 37px;
+}
+.btn{
+    margin: 0px;
+    padding: 5px 25px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.li{
+    margin:0px;
+    padding:0px 0px;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(38, 120, 131);
+}
+.me img{
+    border: 16px solid green;
+    background-color: white;
+    width: 80px;
+    padding: 18px;
+    border-radius: 120px;
+}
+.house img{
+    border: 16px solid red;
+    background-color: white;
+    width: 80px;
+    padding: 18px;
+    border-radius: 80px;
+}

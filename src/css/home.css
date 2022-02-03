@@ -1,0 +1,24 @@
+.home{
+    display: flex;
+    position: relative;
+    top:200px;
+    height: 100%;
+    left:240px;
+    
+}
+.pic{
+    border:10px solid rgb(85, 85, 85);
+    background-color: white;
+    padding:20px;
+    border-radius: 80px;
+    margin: 20px;
+}
+#pic1{
+    border-color: yellow;
+}
+#pic2{
+    border-color: yellowgreen;
+}
+#pic3{
+    border-color:rgb(199, 61, 61);
+}
